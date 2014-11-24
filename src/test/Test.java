@@ -96,6 +96,7 @@ public class Test {
 //		if(a.contains("ÎÀÉúÊÒ"))
 //			System.out.println(a.split("ÎÀÉúÊÒ")[0]);
 		
+		
 //		String s = "s'{ssaaa";
 //		System.out.println(s.replace("'","''"));
 		

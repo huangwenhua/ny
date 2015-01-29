@@ -137,7 +137,16 @@ public abstract class API {
 		
 //		userlist.add("ph011495");//[灌涨镇卫生院]
 		
-		userlist.add("ph010642");	//卫生局
+		//南召县城关镇
+//		userlist.add("ph010582");//沙坪村卫生室
+//		userlist.add("ph010581");//南外社区卫生室
+//		userlist.add("ph010580");//民主社区卫生室
+//		userlist.add("ph010579");//东北社区卫生室
+//		userlist.add("ph010578");//中华社区卫生室
+//		userlist.add("ph010575");//西北社区卫生室
+		userlist.add("ph005768");//北外社区卫生室
+		
+		//userlist.add("ph010642");	//卫生局
 		
 		for(String user:userlist){
 			downbydate(user,startDate,enDate);

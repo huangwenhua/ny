@@ -2253,7 +2253,13 @@ public class BaseInfo extends API{
 		communityCodeMap.put("411321303219","");
 		communityCodeMap.put("411321305001","410000005816");
 		communityCodeMap.put("411321303201","");
-		communityCodeMap.put("411321100001","410000005814");
+		communityCodeMap.put("411321100001","411321100001");//南召县城关镇北外社区卫生室
+		//communityCodeMap.put();//南召县城关镇西北社区卫生室
+		communityCodeMap.put("411321100004","411321100004");//南召县城关镇中华社区卫生室
+		communityCodeMap.put("411321100003","411321100003");//南召县城关镇东北社区卫生室
+		communityCodeMap.put("411321100005","411321100005");//南召县城关镇民主社区卫生室
+		communityCodeMap.put("411321100006","410000100654");//南召县城关镇南外社区卫生室
+		communityCodeMap.put("411321100200","410000100036");//南召县城关镇沙坪村卫生室
 		communityCodeMap.put("411321106001","410000005830");
 		communityCodeMap.put("411321310001","410000005836");
 		communityCodeMap.put("411321105001","410000005832");
@@ -3961,6 +3967,8 @@ public class BaseInfo extends API{
 		//api.userdown("2014-11-05 00:00:00","2014-11-06 23:59:59");
 		
 		api.userdown("2010-01-01 01:00:00","2014-11-06 23:59:59"); //重新下一次[灌涨镇卫生院]:国为机构没有匹配到
+		
+		//api.userdown("2014-11-07 01:00:00","2014-12-15 23:59:59");
 		
 	}
 	

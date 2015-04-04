@@ -144,9 +144,9 @@ public abstract class API {
 //		userlist.add("ph010579");//东北社区卫生室
 //		userlist.add("ph010578");//中华社区卫生室
 //		userlist.add("ph010575");//西北社区卫生室
-		userlist.add("ph005768");//北外社区卫生室
+//		userlist.add("ph005768");//北外社区卫生室
 		
-		//userlist.add("ph010642");	//卫生局
+		userlist.add("ph010642");	//卫生局
 		
 		for(String user:userlist){
 			downbydate(user,startDate,enDate);

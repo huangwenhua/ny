@@ -125,6 +125,7 @@ public class URLUtil {
 			reader.close();
 			return buffer.toString();
 		} catch (IOException e) {
+			logger.error(e.getMessage());
 			e.printStackTrace();
 		} finally {
 			if (connection != null) {

@@ -1,6 +1,5 @@
 package download;
 
-import java.text.SimpleDateFormat;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
@@ -23,7 +22,8 @@ public class BaseInfo extends API{
 	
 	public BaseInfo(){
 //		url = "http://124.133.239.162:9898/api/baseinfo/list_baseinfo";//居民档案信息列表--测试地址
-		url = "http://119.188.126.39:8080/api/baseinfo/list_baseinfo";//正式地址
+//		url = "http://119.188.126.39:8080/api/baseinfo/list_baseinfo";//正式地址
+		url = "http://119.188.126.39:8080/nbphsc-backend/api/baseinfo/list_baseinfo";
 		
 		sourceDir = "D:/ny/BaseInfo/sourceFile/";
 		destDir = "D:/ny/BaseInfo/destFile/";
@@ -2310,20 +2310,20 @@ public class BaseInfo extends API{
 		communityCodeMap.put("411325108210","410000178320");
 		communityCodeMap.put("411325108220","411325108KB0");
 		communityCodeMap.put("411325108218","411325108KB2");
-		communityCodeMap.put("411325100004","");
-		communityCodeMap.put("411325100005","");
-		communityCodeMap.put("411325100200","");
-		communityCodeMap.put("411325100201","411325100KAJ");
+		communityCodeMap.put("411325100004","411325100001");//县衙居委会卫生所
+		communityCodeMap.put("411325100005","411325100004");//西城居委会
+		communityCodeMap.put("411325100200","411325100KAC");//东风居委会
+		communityCodeMap.put("411325100201","411325100KAJ");//书院村
 		communityCodeMap.put("411325100204","411325100204");
 		communityCodeMap.put("411325307209","411325307KAR");
 		communityCodeMap.put("411325108200","411325108KAR");
 		communityCodeMap.put("411325108219","411325108219");
-		communityCodeMap.put("411325307202","");
+		communityCodeMap.put("411325307202","411325307KAL");//南阳内乡县余关乡王沟村卫生所
 		communityCodeMap.put("411325108214","411325108KAD");
 		communityCodeMap.put("411325108224","410000178306");
 		communityCodeMap.put("411325108222","411325108KAW");
 		communityCodeMap.put("411325108211","411325108KAI");
-		communityCodeMap.put("411325307206","411325307KAF");
+		communityCodeMap.put("411325307206","411325307KAF");//南阳内乡县余关乡李沟村卫生所
 		communityCodeMap.put("411325108205","410000178304");
 		communityCodeMap.put("411325108217","411325108KB5");
 		communityCodeMap.put("411325307216","411325307KAB");
@@ -2333,19 +2333,18 @@ public class BaseInfo extends API{
 		communityCodeMap.put("411325307211","411325307KAA");
 		communityCodeMap.put("411325108216","411325108KB6");
 		communityCodeMap.put("411325307217","");
-		communityCodeMap.put("411325100003","");
-		communityCodeMap.put("411325100007","");
+		communityCodeMap.put("411325100003","411325100002");//内乡县卫生局城关镇卫生院县衙居委会
+		communityCodeMap.put("411325100007","411325100006");//商城居委会
 		communityCodeMap.put("411325307210","411325307KAG");
-		communityCodeMap.put("411325100006","");
-		communityCodeMap.put("411325100202","411325100KAH");
-		communityCodeMap.put("411325100002","");
+		communityCodeMap.put("411325100006","411325100005");//北城居委会
+		communityCodeMap.put("411325100202","411325100KAH");//清真寺村
 		communityCodeMap.put("411325307204","");
 		communityCodeMap.put("411325307207","411325307KAM");
 		communityCodeMap.put("411325307212","411325307KAI");
 		communityCodeMap.put("411325307215","411325307KAC");
 		communityCodeMap.put("411325307201","411325307KAN");
 		communityCodeMap.put("411325307213","411325307KAJ");
-		communityCodeMap.put("411325100203","411325100KAM");
+		communityCodeMap.put("411325100203","411325100KAM");//黉学村
 		communityCodeMap.put("411325102001","");
 		communityCodeMap.put("411325106011","410000005968");
 		communityCodeMap.put("411325306001","410000005976");
@@ -2353,7 +2352,7 @@ public class BaseInfo extends API{
 		communityCodeMap.put("411325108203","411325108KAG");
 		communityCodeMap.put("411325108213","");
 		communityCodeMap.put("411325108215","411325108KAV");
-		communityCodeMap.put("411325307203","");
+		communityCodeMap.put("411325307203","411325307203");//余关乡大桦岭村
 		communityCodeMap.put("411325307205","411325307KAQ");
 		communityCodeMap.put("411325307214","410000177044");
 		communityCodeMap.put("411325307218","410000177050");
@@ -3289,6 +3288,21 @@ public class BaseInfo extends API{
 		communityCodeMap.put("411326303001","410000006008");
 		communityCodeMap.put("411326104001","410000005994");
 		communityCodeMap.put("411326107001","410000006012");
+		communityCodeMap.put("411381320214","411381320KAU");
+		communityCodeMap.put("411381320201","411381320KAL");//南阳邓州市九龙乡九龙村卫生所
+		communityCodeMap.put("411381320205","411381320KAF");//河南省邓州市九龙乡邓岗村
+		communityCodeMap.put("411381320200","410000006206");//九龙乡卫生院
+		communityCodeMap.put("411325104205","410000176894");//南阳内乡县湍东镇张岗村卫生室
+		communityCodeMap.put("411325104204","411325104KAM");//南阳内乡县湍东镇龙园村卫生所
+		communityCodeMap.put("411325104203","411325104KAC");//南阳内乡县湍东镇东符营村卫生所
+		communityCodeMap.put("411381320212","411381320KAW");//河南省邓州市九龙乡王营寨村  九龙王营寨村
+		communityCodeMap.put("411325104211","411325104KAR");//湍东庞营村卫生室
+		communityCodeMap.put("411325104200","411325104KAI");//南阳内乡县湍东镇江元村卫生室
+		communityCodeMap.put("411325104206","411325104KAD");//南阳内乡县湍东镇东王沟村卫生所
+		communityCodeMap.put("411321105214","410000100498");//南阳南召县板山坪镇松河村卫生室
+		communityCodeMap.put("411325104202","411325104KB0");//南阳内乡县湍东镇下河村卫生所
+		communityCodeMap.put("411325104210","411325104KB8");//湍东董堂村卫生室
+		communityCodeMap.put("411325104209","411325104KAF");//湍东红堰河村卫生室
 	}
 
 	@Override
@@ -3949,7 +3963,8 @@ public class BaseInfo extends API{
 				pg.getRegisterType() + "\t" +
 				pg.getToiletName() + "\n" 
 				;
-		FileUtil.writefile(destDir + openId + "_" + "1.txt",str,true);
+		if(!pg.getBirthPlace().startsWith("河南省邓州市"))
+			FileUtil.writefile(destDir + openId + "_" + "1.txt",str,true);
 	}
 	
 
@@ -3970,7 +3985,9 @@ public class BaseInfo extends API{
 		
 		//api.userdown("2014-11-07 01:00:00","2014-12-15 23:59:59");
 		
-		api.userdown("2014-12-16 00:00:00","2015-02-08 23:59:59");
+		//api.userdown("2014-12-16 00:00:00","2015-02-08 23:59:59");
+		
+		api.userdown("2015-02-09 00:00:00","2015-04-27 23:59:59");
 		
 	}
 	

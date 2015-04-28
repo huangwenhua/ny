@@ -25,8 +25,9 @@ public class Physical extends API{
 	private static Log logger = LogFactory.getLog(Physical.class);
 	
 	public Physical(){
-		url = "http://124.133.239.162:9898/api/physical/list_physical";//健康体检--测试地址
-		url = "http://119.188.126.39:8080/api/physical/list_physical";//正式地址
+//		url = "http://124.133.239.162:9898/api/physical/list_physical";//健康体检--测试地址
+//		url = "http://119.188.126.39:8080/api/physical/list_physical";//正式地址
+		url = "http://119.188.126.39:8080/nbphsc-backend/api/physical/list_physical";//正式地址
 		
 		sourceDir = "D:/ny/Physical/sourceFile/";
 		destDir = "D:/ny/Physical/destFile/";
@@ -1616,7 +1617,9 @@ public class Physical extends API{
 		//api.userdown("2010-01-01 01:00:00","2014-11-06 23:59:59"); //重新下一次，因为血压没赋值
 		//api.userdown("2014-11-07 01:00:00","2014-12-15 23:59:59");
 		
-		api.userdown("2014-12-16 00:00:00","2015-02-08 23:59:59");
+		//api.userdown("2014-12-16 00:00:00","2015-02-08 23:59:59");
+		
+		api.userdown("2015-02-09 00:00:00","2015-04-27 23:59:59");
 		
 	}
 	

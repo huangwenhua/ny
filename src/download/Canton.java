@@ -42,7 +42,7 @@ public class Canton extends API{
 		_type = type;
 		String code = "";
 		String paramStr = userGet(1,user,startDate,enDate);
-		String result = URLUtil.getResult("http://119.188.126.39:8080/api/canton/get_canton", paramStr);
+		String result = URLUtil.getResult("http://119.188.126.39:8080/nbphsc-backend/api/canton/get_canton", paramStr);
 		logger.debug(result);
 		Document docment = null;
 		try {

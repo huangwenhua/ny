@@ -792,10 +792,10 @@ public class BaseInfo extends API{
 		communityCodeMap.put("411302303","410000005764");
 		communityCodeMap.put("411302005","");
 		communityCodeMap.put("411302004","");
-		communityCodeMap.put("411302104","410000005768");
-		communityCodeMap.put("411302104","410000005768");
-		communityCodeMap.put("411302104","410000005768");
-		communityCodeMap.put("411302301","410000005770");
+		communityCodeMap.put("411302104","411302104");
+		communityCodeMap.put("411302104","411302104");
+		communityCodeMap.put("411302104","411302104");
+		communityCodeMap.put("411302301","411302301");
 		communityCodeMap.put("411302105","410000005778");
 		communityCodeMap.put("411302105","410000005778");
 		communityCodeMap.put("411302105","410000005778");
@@ -813,20 +813,20 @@ public class BaseInfo extends API{
 		communityCodeMap.put("411302305","410000005774");
 		communityCodeMap.put("411302305","410000005774");
 		communityCodeMap.put("411302305","410000005774");
-		communityCodeMap.put("411302104","410000005768");
-		communityCodeMap.put("411302104","410000005768");
-		communityCodeMap.put("411302104","410000005768");
-		communityCodeMap.put("411302301","410000005770");
+		communityCodeMap.put("411302104","411302104");
+		communityCodeMap.put("411302104","411302104");
+		communityCodeMap.put("411302104","411302104");
+		communityCodeMap.put("411302301","411302301");
 		communityCodeMap.put("411302306","410000005782");
 		communityCodeMap.put("411302399","");
 		communityCodeMap.put("411302399","");
 		communityCodeMap.put("411302399","");
 		communityCodeMap.put("411302399","");
 		communityCodeMap.put("411302399","");
-		communityCodeMap.put("411302103","410000005772");
-		communityCodeMap.put("411302103","410000005772");
-		communityCodeMap.put("411302103","410000005772");
-		communityCodeMap.put("411302103","410000005772");
+		communityCodeMap.put("411302103","411302103");
+		communityCodeMap.put("411302103","411302103");
+		communityCodeMap.put("411302103","411302103");
+		communityCodeMap.put("411302103","411302103");
 		communityCodeMap.put("411302105","410000005778");
 		communityCodeMap.put("411302105","410000005778");
 		communityCodeMap.put("411302105","410000005778");
@@ -850,11 +850,11 @@ public class BaseInfo extends API{
 		communityCodeMap.put("411302305","410000005774");
 		communityCodeMap.put("411302305","410000005774");
 		communityCodeMap.put("411302305","410000005774");
-		communityCodeMap.put("411302104","410000005768");
-		communityCodeMap.put("411302104","410000005768");
-		communityCodeMap.put("411302104","410000005768");
-		communityCodeMap.put("411302104","410000005768");
-		communityCodeMap.put("411302104","410000005768");
+		communityCodeMap.put("411302104","411302104");
+		communityCodeMap.put("411302104","411302104");
+		communityCodeMap.put("411302104","411302104");
+		communityCodeMap.put("411302104","411302104");
+		communityCodeMap.put("411302104","411302104");
 		communityCodeMap.put("411302306","410000005782");
 		communityCodeMap.put("411302399","");
 		communityCodeMap.put("411302399","");
@@ -867,7 +867,7 @@ public class BaseInfo extends API{
 		communityCodeMap.put("411302001","");
 		communityCodeMap.put("411302305","410000005774");
 		communityCodeMap.put("411302305","410000005774");
-		communityCodeMap.put("411302301","410000005770");
+		communityCodeMap.put("411302301","411302301");
 		communityCodeMap.put("411302306","410000005782");
 		communityCodeMap.put("411302306","410000005782");
 		communityCodeMap.put("411302306","410000005782");
@@ -879,10 +879,10 @@ public class BaseInfo extends API{
 		communityCodeMap.put("411302399","");
 		communityCodeMap.put("411302399","");
 		communityCodeMap.put("411302399","");
-		communityCodeMap.put("411302103","410000005772");
-		communityCodeMap.put("411302103","410000005772");
-		communityCodeMap.put("411302103","410000005772");
-		communityCodeMap.put("411302103","410000005772");
+		communityCodeMap.put("411302103","411302103");
+		communityCodeMap.put("411302103","411302103");
+		communityCodeMap.put("411302103","411302103");
+		communityCodeMap.put("411302103","411302103");
 		communityCodeMap.put("411302105","410000005778");
 		communityCodeMap.put("411302302","410000005776");
 		communityCodeMap.put("411302001","");
@@ -901,14 +901,14 @@ public class BaseInfo extends API{
 		communityCodeMap.put("411302304","410000005766");
 		communityCodeMap.put("411302304","410000005766");
 		communityCodeMap.put("411302305","410000005774");
-		communityCodeMap.put("411302104","410000005768");
-		communityCodeMap.put("411302104","410000005768");
-		communityCodeMap.put("411302104","410000005768");
-		communityCodeMap.put("411302104","410000005768");
-		communityCodeMap.put("411302301","410000005770");
-		communityCodeMap.put("411302301","410000005770");
-		communityCodeMap.put("411302301","410000005770");
-		communityCodeMap.put("411302301","410000005770");
+		communityCodeMap.put("411302104","411302104");
+		communityCodeMap.put("411302104","411302104");
+		communityCodeMap.put("411302104","411302104");
+		communityCodeMap.put("411302104","411302104");
+		communityCodeMap.put("411302301","411302301");
+		communityCodeMap.put("411302301","411302301");
+		communityCodeMap.put("411302301","411302301");
+		communityCodeMap.put("411302301","411302301");
 		communityCodeMap.put("411302306","410000005782");
 		communityCodeMap.put("411302306","410000005782");
 		communityCodeMap.put("411302399","");
@@ -923,8 +923,8 @@ public class BaseInfo extends API{
 		communityCodeMap.put("411302399","");
 		communityCodeMap.put("411302399","");
 		communityCodeMap.put("411302399","");
-		communityCodeMap.put("411302103","410000005772");
-		communityCodeMap.put("411302103","410000005772");
+		communityCodeMap.put("411302103","411302103");
+		communityCodeMap.put("411302103","411302103");
 		communityCodeMap.put("411302105","410000005778");
 		communityCodeMap.put("411302302","410000005776");
 		communityCodeMap.put("411302001","");
@@ -934,8 +934,8 @@ public class BaseInfo extends API{
 		communityCodeMap.put("411302306","410000005782");
 		communityCodeMap.put("411302399","");
 		communityCodeMap.put("411302399","");
-		communityCodeMap.put("411302103","410000005772");
-		communityCodeMap.put("411302103","410000005772");
+		communityCodeMap.put("411302103","411302103");
+		communityCodeMap.put("411302103","411302103");
 		communityCodeMap.put("411302105","410000005778");
 		communityCodeMap.put("411302105","410000005778");
 		communityCodeMap.put("411302105","410000005778");
@@ -948,15 +948,15 @@ public class BaseInfo extends API{
 		communityCodeMap.put("411302001","");
 		communityCodeMap.put("411302304","410000005766");
 		communityCodeMap.put("411302102","410000005780");
-		communityCodeMap.put("411302104","410000005768");
-		communityCodeMap.put("411302104","410000005768");
-		communityCodeMap.put("411302301","410000005770");
-		communityCodeMap.put("411302301","410000005770");
+		communityCodeMap.put("411302104","411302104");
+		communityCodeMap.put("411302104","411302104");
+		communityCodeMap.put("411302301","411302301");
+		communityCodeMap.put("411302301","411302301");
 		communityCodeMap.put("411302306","410000005782");
 		communityCodeMap.put("411302306","410000005782");
-		communityCodeMap.put("411302103","410000005772");
-		communityCodeMap.put("411302103","410000005772");
-		communityCodeMap.put("411302103","410000005772");
+		communityCodeMap.put("411302103","411302103");
+		communityCodeMap.put("411302103","411302103");
+		communityCodeMap.put("411302103","411302103");
 		communityCodeMap.put("411302105","410000005778");
 		communityCodeMap.put("411302105","410000005778");
 		communityCodeMap.put("411302105","410000005778");
@@ -964,16 +964,16 @@ public class BaseInfo extends API{
 		communityCodeMap.put("411302302","410000005776");
 		communityCodeMap.put("411302302","410000005776");
 		communityCodeMap.put("411302006","");
-		communityCodeMap.put("411302104","410000005768");
-		communityCodeMap.put("411302104","410000005768");
-		communityCodeMap.put("411302104","410000005768");
-		communityCodeMap.put("411302301","410000005770");
-		communityCodeMap.put("411302301","410000005770");
-		communityCodeMap.put("411302301","410000005770");
-		communityCodeMap.put("411302301","410000005770");
-		communityCodeMap.put("411302301","410000005770");
-		communityCodeMap.put("411302301","410000005770");
-		communityCodeMap.put("411302301","410000005770");
+		communityCodeMap.put("411302104","411302104");
+		communityCodeMap.put("411302104","411302104");
+		communityCodeMap.put("411302104","411302104");
+		communityCodeMap.put("411302301","411302301");
+		communityCodeMap.put("411302301","411302301");
+		communityCodeMap.put("411302301","411302301");
+		communityCodeMap.put("411302301","411302301");
+		communityCodeMap.put("411302301","411302301");
+		communityCodeMap.put("411302301","411302301");
+		communityCodeMap.put("411302301","411302301");
 		communityCodeMap.put("411302306","410000005782");
 		communityCodeMap.put("411302306","410000005782");
 		communityCodeMap.put("411302306","410000005782");
@@ -982,19 +982,19 @@ public class BaseInfo extends API{
 		communityCodeMap.put("411302399","");
 		communityCodeMap.put("411302399","");
 		communityCodeMap.put("411302399","");
-		communityCodeMap.put("411302103","410000005772");
-		communityCodeMap.put("411302103","410000005772");
-		communityCodeMap.put("411302103","410000005772");
-		communityCodeMap.put("411302103","410000005772");
-		communityCodeMap.put("411302103","410000005772");
-		communityCodeMap.put("411302103","410000005772");
+		communityCodeMap.put("411302103","411302103");
+		communityCodeMap.put("411302103","411302103");
+		communityCodeMap.put("411302103","411302103");
+		communityCodeMap.put("411302103","411302103");
+		communityCodeMap.put("411302103","411302103");
+		communityCodeMap.put("411302103","411302103");
 		communityCodeMap.put("411302105","410000005778");
 		communityCodeMap.put("411302105","410000005778");
 		communityCodeMap.put("411302105","410000005778");
 		communityCodeMap.put("411302302","410000005776");
 		communityCodeMap.put("411302006","");
-		communityCodeMap.put("411302104","410000005768");
-		communityCodeMap.put("411302301","410000005770");
+		communityCodeMap.put("411302104","411302104");
+		communityCodeMap.put("411302301","411302301");
 		communityCodeMap.put("411302102","410000005780");
 		communityCodeMap.put("411302102","410000005780");
 		communityCodeMap.put("411302102","410000005780");
@@ -1045,15 +1045,15 @@ public class BaseInfo extends API{
 		communityCodeMap.put("411302303","410000005764");
 		communityCodeMap.put("411302005","");
 		communityCodeMap.put("411302006","");
-		communityCodeMap.put("411302104","410000005768");
-		communityCodeMap.put("411302104","410000005768");
-		communityCodeMap.put("411302104","410000005768");
-		communityCodeMap.put("411302104","410000005768");
-		communityCodeMap.put("411302104","410000005768");
-		communityCodeMap.put("411302104","410000005768");
-		communityCodeMap.put("411302301","410000005770");
-		communityCodeMap.put("411302301","410000005770");
-		communityCodeMap.put("411302301","410000005770");
+		communityCodeMap.put("411302104","411302104");
+		communityCodeMap.put("411302104","411302104");
+		communityCodeMap.put("411302104","411302104");
+		communityCodeMap.put("411302104","411302104");
+		communityCodeMap.put("411302104","411302104");
+		communityCodeMap.put("411302104","411302104");
+		communityCodeMap.put("411302301","411302301");
+		communityCodeMap.put("411302301","411302301");
+		communityCodeMap.put("411302301","411302301");
 		communityCodeMap.put("411302306","410000005782");
 		communityCodeMap.put("411302306","410000005782");
 		communityCodeMap.put("411302306","410000005782");
@@ -2281,7 +2281,7 @@ public class BaseInfo extends API{
 		communityCodeMap.put("411321305214","410000100686");
 		communityCodeMap.put("411321305221","410000100356");
 		communityCodeMap.put("411321103001","410000005820");
-		communityCodeMap.put("411321104001","410000005826");
+		communityCodeMap.put("411321104001","410000005826");//南河店杨湾村
 		communityCodeMap.put("411321300001","410000005844");
 		communityCodeMap.put("411321301001","410000005818");
 		communityCodeMap.put("411321302001","");
@@ -2303,7 +2303,7 @@ public class BaseInfo extends API{
 		communityCodeMap.put("411325108206","411325108KAJ");
 		communityCodeMap.put("411325108207","410000178312");
 		communityCodeMap.put("411325108221","411325108KAO");
-		communityCodeMap.put("411325108212","411325108KAP");
+		communityCodeMap.put("411325108212","411325108KAP");//前马村
 		communityCodeMap.put("411325308001","");
 		communityCodeMap.put("411325108202","411325108KB4");
 		communityCodeMap.put("411325108223","411325108KAK");
@@ -2325,7 +2325,7 @@ public class BaseInfo extends API{
 		communityCodeMap.put("411325108211","411325108KAI");
 		communityCodeMap.put("411325307206","411325307KAF");//南阳内乡县余关乡李沟村卫生所
 		communityCodeMap.put("411325108205","410000178304");
-		communityCodeMap.put("411325108217","411325108KB5");
+		communityCodeMap.put("411325108217","411325108KB5");//杨寨村
 		communityCodeMap.put("411325307216","411325307KAB");
 		communityCodeMap.put("411325108201","411325108KAS");
 		communityCodeMap.put("411325108208","411325108KAL");
@@ -2339,7 +2339,7 @@ public class BaseInfo extends API{
 		communityCodeMap.put("411325100006","411325100005");//北城居委会
 		communityCodeMap.put("411325100202","411325100KAH");//清真寺村
 		communityCodeMap.put("411325307204","");
-		communityCodeMap.put("411325307207","411325307KAM");
+		communityCodeMap.put("411325307207","411325307KAM");//余关乡谢寨村
 		communityCodeMap.put("411325307212","411325307KAI");
 		communityCodeMap.put("411325307215","411325307KAC");
 		communityCodeMap.put("411325307201","411325307KAN");
@@ -2350,7 +2350,7 @@ public class BaseInfo extends API{
 		communityCodeMap.put("411325306001","410000005976");
 		communityCodeMap.put("411325309001","");
 		communityCodeMap.put("411325108203","411325108KAG");
-		communityCodeMap.put("411325108213","");
+		communityCodeMap.put("411325108213","411325108KAA");
 		communityCodeMap.put("411325108215","411325108KAV");
 		communityCodeMap.put("411325307203","411325307203");//余关乡大桦岭村
 		communityCodeMap.put("411325307205","411325307KAQ");
@@ -3303,6 +3303,27 @@ public class BaseInfo extends API{
 		communityCodeMap.put("411325104202","411325104KB0");//南阳内乡县湍东镇下河村卫生所
 		communityCodeMap.put("411325104210","411325104KB8");//湍东董堂村卫生室
 		communityCodeMap.put("411325104209","411325104KAF");//湍东红堰河村卫生室
+		communityCodeMap.put("411321107225","410000100442");//白土岗碾坪村卫生室
+		communityCodeMap.put("411321107219","410000100446"); //白土岗瓦房庄村卫生室
+		communityCodeMap.put("411325104215","411325104KB1");//湍东下洼村卫生室
+		communityCodeMap.put("411325104225","411325104KAO");//湍东罗岗村卫生室
+		communityCodeMap.put("411325104214","411325104KAB");//湍东茶庵村卫生室
+		communityCodeMap.put("411325104216","411325104KAU");//湍东屈庄村卫生室
+		communityCodeMap.put("411325104213","411325104KAY");//湍东五里堡村卫生室
+		communityCodeMap.put("411325104212","411325104KAA");//湍东北符营村卫生室	
+		communityCodeMap.put("411381104010","411326103KAB");//穰东镇北王营村卫生室
+		communityCodeMap.put("411325104224","411325104KAK");//湍东龙头村卫生室
+		communityCodeMap.put("411325104218", "411325104KB7");//湍东周洼村卫生室
+		communityCodeMap.put("411325104217","411325104KAP");//湍东庙岗村卫生室
+		communityCodeMap.put("411325104220","411325104KB6");//湍东赵沟村卫生室
+		communityCodeMap.put("411325104222","411325104KAT");//湍东清凉庙村卫生室	
+		communityCodeMap.put("411325104221","411325104KAH");//湍东花园村卫生室
+		communityCodeMap.put("411325104219","411325104KAZ");//湍东西王营村卫生室
+		communityCodeMap.put("411321105212","410000100534");//板山坪镇瓦房村
+		communityCodeMap.put("411321105216","410000100522");//板山坪镇华山村
+		communityCodeMap.put("411321105217","410000100508");//板山坪镇华阳宫村
+		communityCodeMap.put("411325104208","411325104KB4");//湍东谢楼村卫生室	
+		communityCodeMap.put("411325104207","411325104KAE");//湍东东王营村卫生室
 	}
 
 	@Override
@@ -3335,7 +3356,7 @@ public class BaseInfo extends API{
 			logger.error("parse xml is error :" + e.getMessage());
 			e.printStackTrace();
 		}
-        return true;
+        return false;
 	}
 	
 	@Override
@@ -3738,46 +3759,46 @@ public class BaseInfo extends API{
 		if(houseRelation.equals("1"))	
 			str = "1";
 		else if(houseRelation.equals("2")){
-			str = "10";
+			str = "2";
 		}
 		else if(houseRelation.equals("3")){
-			str = "51";
+			str = "24";
 		}
 		else if(houseRelation.equals("4")){
-			str = "52";
+			str = "25";
 		}
 		else if(houseRelation.equals("5")){
-			str = "70";
-		}
-		else if(houseRelation.equals("6")){
-			str = "70";
-		}
-		else if(houseRelation.equals("7")){
-			str = "20";
-		}
-		else if(houseRelation.equals("8")){
-			str = "30";
-		}
-		else if(houseRelation.equals("9")){
-			str = "38";
-		}
-		else if(houseRelation.equals("10")){
-			str = "28";
-		}
-		else if(houseRelation.equals("11")){
-			str = "41";
-		}
-		else if(houseRelation.equals("12")){
-			str = "42";
-		}
-		else if(houseRelation.equals("13")){
-			str = "43";
-		}
-		else if(houseRelation.equals("14")){
 			str = "44";
 		}
+		else if(houseRelation.equals("6")){
+			str = "48";
+		}
+		else if(houseRelation.equals("7")){
+			str = "5";
+		}
+		else if(houseRelation.equals("8")){
+			str = "9";
+		}
+		else if(houseRelation.equals("9")){
+			str = "11";
+		}
+		else if(houseRelation.equals("10")){
+			str = "7";
+		}
+		else if(houseRelation.equals("11")){
+			str = "13";
+		}
+		else if(houseRelation.equals("12")){
+			str = "14";
+		}
+		else if(houseRelation.equals("13")){
+			str = "15";
+		}
+		else if(houseRelation.equals("14")){
+			str = "16";
+		}
 		else if(houseRelation.equals("15")){
-			str = "80";
+			str = "53";
 		}
 			
 		return str;
@@ -3787,40 +3808,41 @@ public class BaseInfo extends API{
 	private String maritalstatus(String maritalstatus){
 		String str = "5";
 		if(maritalstatus.equals("1"))
-			str = "2";
+			str = "10";
 		else if(maritalstatus.equals("2")){
-			str = "1";
+			str = "20";
 		}
 		else if(maritalstatus.equals("3")){
-			str = "4";
+			str = "20";
 		}
 		else if(maritalstatus.equals("4")){
-			str = "3";
+			str = "40";
 		}
 		else if(maritalstatus.equals("5")){
-			str = "5";
+			str = "90";
 		}
 		return str;
 	}
 	
 	//文化程度
 	private String culture(String culture){
-		String str = "1";
+		String str = "";
 		if(culture.equals("1")){
-			str = "1";
+			str = "90";
 		}
 		else if(culture.equals("2")){
-			str = "2";
+			str = "80";
 		}
 		else if(culture.equals("3")){
-			str = "3";
+			str = "70";
 		}
 		else if(culture.equals("4")){
-			str = "4";
+			str = "60";
 		}
 		else if(culture.equals("5")){
-			str = "5";
+			str = "30";
 		}
+	
 		return str;
 	}
 	
@@ -3864,21 +3886,20 @@ public class BaseInfo extends API{
 	private String blowmeasure(String blowmeasure){
 		String str = "";
 		if(blowmeasure.equals("1"))
-			str = "9";
-		else if(blowmeasure.equals("2"))
 			str = "1";
-		else if(blowmeasure.equals("3"))
+		else if(blowmeasure.equals("2"))
 			str = "2";
-		else if(blowmeasure.equals("4"))
+		else if(blowmeasure.equals("3"))
 			str = "3";
+		else if(blowmeasure.equals("4"))
+			str = "4";
 		return str;
 	}
 	
 	//饮水
 	private String drinkwater(String drinkwater){
 		String str = drinkwater;
-		if(drinkwater.equals("6"))
-			str = "9";
+
 		return str;
 	}
 	
@@ -3987,7 +4008,9 @@ public class BaseInfo extends API{
 		
 		//api.userdown("2014-12-16 00:00:00","2015-02-08 23:59:59");
 		
-		api.userdown("2015-02-09 00:00:00","2015-04-27 23:59:59");
+		//api.userdown("2015-02-09 00:00:00","2015-04-27 23:59:59");
+		
+		api.userdown("2015-04-28 00:00:00","2015-05-24 23:59:59");
 		
 	}
 	

@@ -2263,9 +2263,9 @@ public class BaseInfo extends API{
 		communityCodeMap.put("411321106001","410000005830");
 		communityCodeMap.put("411321310001","410000005836");
 		communityCodeMap.put("411321105001","410000005832");
-		communityCodeMap.put("411321305207","410000100364");
+		communityCodeMap.put("411321305207","410000100364");//四棵树乡白草垛村卫生室	
 		communityCodeMap.put("411321305211","410000100390");
-		communityCodeMap.put("411321305212","410000100380");
+		communityCodeMap.put("411321305212","410000100380");//四棵树乡大柳树村卫生室
 		communityCodeMap.put("411321305213","410000100382");
 		communityCodeMap.put("411321305215","410000100386");
 		communityCodeMap.put("411321305216","");
@@ -2275,19 +2275,19 @@ public class BaseInfo extends API{
 		communityCodeMap.put("411321305225","410000100384");
 		communityCodeMap.put("411321107001","410000005842");
 		communityCodeMap.put("411321304001","410000005822");
-		communityCodeMap.put("411321305205","410000100362");
+		communityCodeMap.put("411321305205","410000100362");//四棵树乡三岔口村卫生室
 		communityCodeMap.put("411321305206","410000100374");
 		communityCodeMap.put("411321305209","410000100348");
 		communityCodeMap.put("411321305214","410000100686");
 		communityCodeMap.put("411321305221","410000100356");
 		communityCodeMap.put("411321103001","410000005820");
-		communityCodeMap.put("411321104001","410000005826");//南河店杨湾村
+		communityCodeMap.put("411321104001","410000005826");//南河店杨湾村;南河店龙王庙村
 		communityCodeMap.put("411321300001","410000005844");
 		communityCodeMap.put("411321301001","410000005818");
 		communityCodeMap.put("411321302001","");
 		communityCodeMap.put("411321308001","410000005838");
 		communityCodeMap.put("411321305201","410000100372");
-		communityCodeMap.put("411321305202","410000100368");
+		communityCodeMap.put("411321305202","410000100368");//四棵树乡华庄村卫生室
 		communityCodeMap.put("411321305203","410000100392");
 		communityCodeMap.put("411321305204","410000100350");
 		communityCodeMap.put("411321305208","");
@@ -3324,6 +3324,16 @@ public class BaseInfo extends API{
 		communityCodeMap.put("411321105217","410000100508");//板山坪镇华阳宫村
 		communityCodeMap.put("411325104208","411325104KB4");//湍东谢楼村卫生室	
 		communityCodeMap.put("411325104207","411325104KAE");//湍东东王营村卫生室
+		communityCodeMap.put("411321012001","410000008888");//南召县第二人民医院
+		communityCodeMap.put("411321310223","410000100622");//崔庄乡粮食川村; 崔庄乡仓房村
+		communityCodeMap.put("411321310220","410000100632");//崔庄乡韩庄村
+		communityCodeMap.put("411321310222","410000100616");//崔庄乡山坪村
+		communityCodeMap.put("411321310214","410000100606");//崔庄乡回龙沟
+		communityCodeMap.put("411321310210","410000100618");//崔庄乡程家庄村;崔庄乡鱼池村
+		communityCodeMap.put("411321107222","410000100482");//白土岗姬村卫生室
+		communityCodeMap.put("411321107224","410000100444");//白土岗东沟村卫生室
+		communityCodeMap.put("411321107226","410000100490");//白土岗杜村卫生室
+		
 	}
 
 	@Override
@@ -4010,8 +4020,9 @@ public class BaseInfo extends API{
 		
 		//api.userdown("2015-02-09 00:00:00","2015-04-27 23:59:59");
 		
-		api.userdown("2015-04-28 00:00:00","2015-05-24 23:59:59");
+		//api.userdown("2015-04-28 00:00:00","2015-05-24 23:59:59");
 		
+		api.userdown("2015-05-25 00:00:00","2015-06-01 23:59:59");
 	}
 	
 }
